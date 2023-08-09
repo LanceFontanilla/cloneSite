@@ -1,0 +1,40 @@
+.logo {
+    height: 75px;
+
+}
+
+.topLinks {
+    text-decoration: none;
+    color: black;
+}
+
+.bottomLinks {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.orange {
+    background-color: orangered;
+}
+
+.syrupImage {
+    max-width: 75%;
+}
+
+.xmasImage {
+    height: 200px;
+    background-image: url(https://images.unsplash.com/photo-1482517967863-00e15c9b44be?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hyaXN0bWFzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+}
+
+.officeImage {
+    height: 200px;
+    background-image: url(https://images.unsplash.com/photo-1535957998253-26ae1ef29506?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8b2ZmaWNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+}
+
+.expertiseImage {
+    height: 200px;
+    background-image: url(https://plus.unsplash.com/premium_photo-1667404187122-5c8f0500ec59?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80);
+    background-size: cover;
+}
